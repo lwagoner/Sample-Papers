@@ -1,1 +1,1 @@
-This repository contains sample papers to download.
+This repository contains sample papers to download. The first paper is a monograph investigating the determinants of prescription drug demand and includes an logit regression model developed based off the National Institute of Health annual household surveys. The second paper is a discussion and analysis of the interest rate and strategies the Federal Reserve could have taken in 2019. The final paper investigates the natural rate of unemployment of the United States Economy.
